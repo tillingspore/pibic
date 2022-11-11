@@ -6,8 +6,9 @@ import matplotlib.pylab as plt
 rede de pequeno mundo
 modelo watts-strogatz
 
-n = numero de nós
-p = ordem e aleatoriedade
+n :numero de nós
+m :quantidade de conexões por nó
+p :ordem e aleatoriedade
 
 
 
